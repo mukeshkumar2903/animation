@@ -17,8 +17,8 @@ body{
 }
 .boxes img,
 .boxes_1 img{
-    width: 450px;
-    height: 265px;
+    width: 410px;
+    height: 240px;
     border-radius: 1.5rem;
     margin: 0 1.3rem;
 }
@@ -27,8 +27,8 @@ body{
     position: relative;
 }
 .effect{
-    width: 450px;
-    height: 265px;
+    width: 410px;
+    height: 240px;
     position: absolute;
     padding: 0px 2.5rem;
     top: 0px;
