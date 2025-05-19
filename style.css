@@ -13,7 +13,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 40vh;
+    /* height: 40vh; */
+}
+.boxes{
+    height: 50vh;
 }
 .boxes img,
 .boxes_1 img{
